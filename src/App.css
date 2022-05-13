@@ -69,3 +69,13 @@
   outline: none;
   cursor: pointer;
 }
+
+@media screen and (max-width: 650px) {
+  .password {
+    width: 250px;
+  }
+
+  .button {
+    width: 250px;
+  }
+}
