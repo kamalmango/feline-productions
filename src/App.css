@@ -72,7 +72,7 @@
 
 @media screen and (max-width: 650px) {
   .password-container {
-    top: 10%;
+    top: 5%;
   }
 
   .password {
@@ -80,14 +80,15 @@
   }
 
   .button {
-    width: 200px;
+    width: 150px;
     align-self: center;
+    margin-top: 2rem;
   }
 
   .logo {
     height: 400px;
     width: 400px;
-    top: 10%;
+    top: 5%;
   }
 
   .error-message {
