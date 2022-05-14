@@ -8,8 +8,8 @@
 }
 
 .logo {
-  height: 700px;
-  width: 700px;
+  height: 750px;
+  width: 750px;
 
   position: relative;
   top: -10%;
@@ -77,5 +77,10 @@
 
   .button {
     width: 250px;
+  }
+
+  .logo {
+    height: 600px;
+    width: 600px;
   }
 }
