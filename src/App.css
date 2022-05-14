@@ -76,11 +76,16 @@
   }
 
   .button {
-    width: 250px;
+    width: 200px;
+    align-self: center;
   }
 
   .logo {
     height: 600px;
     width: 600px;
+  }
+
+  .error-message {
+    font-size: 12px;
   }
 }
