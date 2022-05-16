@@ -13,7 +13,7 @@ function App() {
         <input type='password' onClick={() => setPassword(true)} className='password' placeholder='Password' />
         {!password && <p className='error-message'>The password you've entered is incorrect. Please try again</p>}
         </div>
-        <button onClick={() => setPassword(false)} className="button">Submit</button>
+        <button onClick={() => setPassword(false)} className="button">ENTER</button>
       </div>
     </div>
   );
